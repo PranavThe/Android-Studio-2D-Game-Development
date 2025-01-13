@@ -1,3 +1,4 @@
+package com.example.secondgame
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
