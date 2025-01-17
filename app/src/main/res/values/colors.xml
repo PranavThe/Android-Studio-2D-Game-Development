@@ -4,4 +4,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="green">#FF00FF00</color>
     <color name="player">#FFFF0000</color>
+    <color name="enemy">#FFFFFF00</color>
 </resources>
